@@ -13,8 +13,8 @@ A Python logger for a Raspberry Pi that reads temperature and PIR motion-sensor 
 
 ## Related repositories
 
-- [Flask telemetry API](https://github.com/AxelDiazA2G/env-server)
-- [React dashboard](https://github.com/AxelDiazA2G/environmental-dashboard)
+- [Flask telemetry API](https://github.com/AxelDiazA2G/environmental-monitoring-api)
+- [React dashboard](https://github.com/AxelDiazA2G/environmental-monitoring-dashboard)
 
 ## Required configuration
 
